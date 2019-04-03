@@ -2,5 +2,8 @@
 
 Just note my practice codes.
 
-**148. Sort List**<br>
-<ul><li>Wait for improve the speed later.</ul>
+**Wait for improve the speed later.**<br>
+<ul>
+	<li>148. Sort List
+	<li>125. Valid Palindrome
+</ul>
