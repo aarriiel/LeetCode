@@ -1,4 +1,4 @@
-# LeeCode
+# LeetCode
 
 Just note my practice codes.
 
